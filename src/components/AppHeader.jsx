@@ -76,7 +76,7 @@ function AppHeader() {
           La nostra storia
         </a>
         <a className="app-header__link font-oswald" href="#obiettivi">
-          Obiettivi
+          LA nostra Visione
         </a>
         <a className="app-header__link font-oswald" href="#contatti">
           Contatti
